@@ -224,6 +224,9 @@ The system expects CSV files with the following columns:
 
 ### Web Interface Screenshots
 
+![Web Interface Demo](web_interface_demo.png)
+*Complete web interface demonstration showing real-time prediction capabilities and scientific analysis*
+
 ![Web Interface - Prediction Results](web/public/demo-prediction.png)
 *Real-time prediction interface with scientific analysis capabilities*
 
