@@ -1,18 +1,15 @@
-**Challenge:** Challenge 9: Mini AlphaFold – Small-Scale Protein Structure & Drug Discovery AI  
-📍 **Track:** VC Big Bets (Healthcare)  
-🎯 **Section:** Small Model Deployment  
-💡 **Objective:** Ligand–Protein Binding Affinity Estimation - Given a protein structure and a small molecule ligand, predict whether they bind strongly.
+# **HackNation 2025 — Challenge 9**  
+## **Mini AlphaFold: Small-Scale Protein Structure & Drug Discovery AI**  
+**Track:** VC Big Bets (Healthcare)  
+**Section:** Small Model Deployment  
+**Objective:** Ligand–Protein Binding Affinity Estimation — *Given a protein structure and a small molecule ligand, predict whether they bind strongly*  
 
-🌐 **Live Demo:** [https://hacknation2025-kinase-prediction.vercel.app](https://github.com/muhnehh/hacknation2025-kinase-prediction)gand Binding Prediction Pipeline
+---
 
-**HackNation 2025 Project** | Advanced AI-powered protein-ligand binding prediction system designed for drug discovery applications.
-
-**Made by:** Muhammed Nehan, Arish Shahab, Aaron Yu
-
-� **Challenge:** Challenge 9: Mini AlphaFold – Small-Scale Protein Structure & Drug Discovery AI  
-📍 **Track:** VC Big Bets (Healthcare)  
-🎯 **Section:** Small Model Deployment  
-💡 **Objective:** Ligand–Protein Binding Affinity Estimation - Given a protein structure and a small molecule ligand, predict whether they bind strongly.
+**Project Title:** **Advanced AI-Powered Protein–Ligand Binding Prediction System**  
+**Team:** Muhammed Nehan, Arish Shahab, Aaron Yu  
+**Live Demo:** [hacknation2025-kinase-prediction.vercel.app](https://hacknation2025-kinase-prediction.vercel.app)  
+**GitHub Repository:** [muhnehh/hacknation2025-kinase-prediction](https://github.com/muhnehh/hacknation2025-kinase-prediction)  
 
 �🌐 **Live Demo:** [https://hacknation2025-kinase-prediction.vercel.app](https://github.com/muhnehh/hacknation2025-kinase-prediction)
 
@@ -381,4 +378,5 @@ This project is released under the MIT License.
 **Challenge 9:** Mini AlphaFold – Small-Scale Protein Structure & Drug Discovery AI  
 **Track:** VC Big Bets (Healthcare) | **Section:** Small Model Deployment  
 **Team:** Muhammed Nehan, Arish Shahab, Aaron Yu
+
 
