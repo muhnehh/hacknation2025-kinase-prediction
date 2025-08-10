@@ -8,10 +8,9 @@
 
 **Project Title:** **Advanced AI-Powered Protein–Ligand Binding Prediction System**  
 **Team:** Muhammed Nehan, Arish Shahab, Aaron Yu  
-**Live Demo:** [hacknation2025-kinase-prediction.vercel.app](https://hacknation2025-kinase-prediction.vercel.app)  
+
 **GitHub Repository:** [muhnehh/hacknation2025-kinase-prediction](https://github.com/muhnehh/hacknation2025-kinase-prediction)  
 
-�🌐 **Live Demo:** [https://hacknation2025-kinase-prediction.vercel.app](https://github.com/muhnehh/hacknation2025-kinase-prediction)
 
 ## Project Overview
 
@@ -378,5 +377,6 @@ This project is released under the MIT License.
 **Challenge 9:** Mini AlphaFold – Small-Scale Protein Structure & Drug Discovery AI  
 **Track:** VC Big Bets (Healthcare) | **Section:** Small Model Deployment  
 **Team:** Muhammed Nehan, Arish Shahab, Aaron Yu
+
 
 
