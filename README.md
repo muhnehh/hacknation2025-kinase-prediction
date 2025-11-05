@@ -157,9 +157,9 @@ print("Predicted pX:", result['predicted_px'])
 
 ## Team
 
-**Muhammed Nehan** — Lead ML Engineer  
-**Arish Shahab** — Data Scientist  
-**Aaron Yu** — Full-Stack Developer  
+**Muhammed Nehan** — me lol
+**Arish Shahab** - Researcher @Harvard MS | Biomed @McMaster   
+**Aaron Yu** - Research @ OICR | Biomed @McMaster
 
 ---
 
@@ -167,4 +167,5 @@ print("Predicted pX:", result['predicted_px'])
 
 MIT License © 2025  
 **HackNation 2025 · Challenge 9 — Mini AlphaFold: Small-Scale Protein & Drug Discovery AI**
+
 
