@@ -86,13 +86,9 @@ npm run dev
 
 ### Web Interface Screenshots
 
-![Web Interface Demo](web_interface_demo.png)  
+<img width="1616" height="1414" alt="asasasas" src="https://github.com/user-attachments/assets/cf35a464-6d6c-48ed-852e-e69a9bcee340" />
 *Complete web interface demonstration showing real-time prediction capabilities and scientific analysis.*
-
-![Web Interface - Prediction Results](web/public/demo-prediction.png)  
 *Real-time prediction interface with detailed molecular and binding analysis.*
-
-![Metrics Dashboard](web/public/demo-metrics.png)  
 *Comprehensive performance metrics and calibration plots.*
 
 ### Model Evaluation Results
@@ -171,3 +167,4 @@ print("Predicted pX:", result['predicted_px'])
 
 MIT License © 2025  
 **HackNation 2025 · Challenge 9 — Mini AlphaFold: Small-Scale Protein & Drug Discovery AI**
+
